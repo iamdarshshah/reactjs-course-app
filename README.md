@@ -15,8 +15,8 @@ git checkout {BRANCH_NAME}
 
 * Bootcamp - TODO's `Timings: `
 
-- [ ] Create a basic react app using pure JavaScript - _branch_: `start`
-- [ ] Project setup using create-react-app - _branch_: `bootcamp`
+- [x] Create a basic react app using pure JavaScript - _branch_: `start`
+- [x] Project setup using create-react-app - _branch_: `bootcamp`
 - [ ] Develop a counter app with `Increament`, `Decreament`, & `Reset` functionality - _branch_: `bootcamp`
 - [ ] Develop a basic data fetching app using React (we will be using `axios` for data fetching) - _branch_: `bootcamp`
 
