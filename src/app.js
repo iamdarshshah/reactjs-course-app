@@ -39,4 +39,5 @@ const App = () =>
     ])
   );
 
+//NOTE: here the 'App' is known as Composite Component (a component that you and I created)
 ReactDOM.render(React.createElement(App), document.getElementById("root"));
