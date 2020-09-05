@@ -1,5 +1,7 @@
 ### Reactjs-course-app
 
+> Here are the course notes: [reactjs-course](https://iamdarshshah.github.io/reactjs-course/)
+
 ##### Guidelines:
 - Clone the repo:
 ```
