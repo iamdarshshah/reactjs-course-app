@@ -18,9 +18,4 @@ git checkout {BRANCH_NAME}
 - [x] Create a basic react app using pure JavaScript - _branch_: `start`
 - [x] Project setup using create-react-app - _branch_: `bootcamp`
 - [x] Develop a counter app with `Increament`, `Decreament`, & `Reset` functionality - _branch_: `bootcamp-counter`
-- [ ] Develop a basic data fetching app using React (we will be using `axios` for data fetching) - _branch_: `bootcamp-fetch`
-
-* Talk session - TODO's `Timings: 7:30 pm onwards on 6th Sept. 2020`
-
-- [ ] Develop a basic app for implementing `Routing` in ReactJS app - _branch_: `talk`
-- [ ] Intro to React Hooks - will be buiding the counter app and data fetching app using Hooks - _branch_: `talk`
+- [x] Develop a basic data fetching app using React (we will be using `axios` for data fetching) - _branch_: `bootcamp-fetch`
